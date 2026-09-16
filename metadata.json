@@ -1,0 +1,6 @@
+{
+  "name": "Athanaya Villa - Jimbaran, Bali",
+  "description": "Luxurious private tropical villa in Jimbaran, Bali with artistic Balinese architecture, private pools, and tranquil island hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
